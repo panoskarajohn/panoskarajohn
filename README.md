@@ -17,3 +17,6 @@ Hello everyone I am Panos. I am software developer who always looks something to
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![panoskarajohn's github stats](https://github-readme-stats.vercel.app/api?username=panoskarajohn&show_icons=true&theme=default)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
