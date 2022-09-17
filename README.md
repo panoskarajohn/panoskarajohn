@@ -20,5 +20,3 @@ Hello everyone I am Panos. I am software developer who always looks something to
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panoskarajohn)](https://github.com/anuraghazra/github-readme-stats)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/panoskarajohn?theme=light&font=Urbanist&ext=contest)
-
