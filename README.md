@@ -3,7 +3,11 @@
 [![](https://img.shields.io/badge/-@panoskarajohn-%23181717?style=flat-square&logo=github)](https://github.com/panoskarajohn)
 [![](https://img.shields.io/badge/-Panagiotis%20Karagiannis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panagiotiskaragiannis/)](https://www.linkedin.com/in/panagiotiskaragiannis/)
 
-Hello everyone I am Panos. I am software developer who always looks something to code in his spare time. I really enjoy working really with anything, but i have mostly worked with: 
+Hello everyone I am Panos. 
+I am software developer who always looks something to code in his spare time. 
+
+I really enjoy working really with anything, but i have mostly worked with: 
+
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Docker](https://img.shields.io/badge/-Docker-232F7E?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-232F7E?style=flat-square&logo=git)
@@ -14,6 +18,3 @@ Hello everyone I am Panos. I am software developer who always looks something to
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![panoskarajohn's github stats](https://github-readme-stats.vercel.app/api?username=panoskarajohn&show_icons=true&theme=default)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panoskarajohn)](https://github.com/anuraghazra/github-readme-stats)
-
