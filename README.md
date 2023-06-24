@@ -3,10 +3,10 @@
 [![](https://img.shields.io/badge/-@panoskarajohn-%23181717?style=flat-square&logo=github)](https://github.com/panoskarajohn)
 [![](https://img.shields.io/badge/-Panagiotis%20Karagiannis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panagiotiskaragiannis/)](https://www.linkedin.com/in/panagiotiskaragiannis/)
 
-Hello everyone I am Panos. 
-I am software developer who always looks something to code in his spare time. 
+Hello everyone! 
+I am a software developer who always looks for something to code in his spare time. 
 
-I really enjoy working really with anything, but i have mostly worked with: 
+I really enjoy working really with anything, but I have mostly worked with: 
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Docker](https://img.shields.io/badge/-Docker-232F7E?style=flat-square&logo=docker)
