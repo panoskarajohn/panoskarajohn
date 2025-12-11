@@ -6,5 +6,6 @@
 You will mostly see code in C#, Rust, C++, maybe C! 
 In the process of learning and migrating to a system's level programming language!
 
-My main programming language has been C# for most of my professional carreer! I feel the most comfortable when developing with it!
-I feel comfortable with any managed language and i am quite familiar with the react framework for frontend! Please don't ask me to style! 
+My main programming language has been C# for most of my professional carreer! I feel most comfortable when developing with it!
+Any managed language is fine and i am quite familiar with some frontend and the (jquery, vanilla js, react framework) for frontend! 
+You won't find good styling options here :)!
