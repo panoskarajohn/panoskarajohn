@@ -3,18 +3,8 @@
 [![](https://img.shields.io/badge/-@panoskarajohn-%23181717?style=flat-square&logo=github)](https://github.com/panoskarajohn)
 [![](https://img.shields.io/badge/-Panagiotis%20Karagiannis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panagiotiskaragiannis/)](https://www.linkedin.com/in/panagiotiskaragiannis/)
 
-Hello everyone! 
-I am a software developer who always looks for something to code in his spare time. 
+You will mostly see code in C#, Rust, C++, maybe C! 
+In the process of learning and migrating to a system's level programming language!
 
-I really enjoy working really with anything, but I have mostly worked with: 
-
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Docker](https://img.shields.io/badge/-Docker-232F7E?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-232F7E?style=flat-square&logo=git)
-![C#](https://img.shields.io/badge/-Dotnet-232F7E?style=flat-square&logo=visual-studio) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-232F7E?style=flat-square&logo=javascript) 
-![Python](https://img.shields.io/badge/-Python-232F7E?style=flat-square&logo=Python). 
-
-## 𝗦𝘁𝗮𝘁𝘀
-
-![panoskarajohn's github stats](https://github-readme-stats.vercel.app/api?username=panoskarajohn&show_icons=true&theme=default)
+My main programming language has been C# for most of my professional carreer! I feel the most comfortable when developing with it!
+I feel comfortable with any managed language and i am quite familiar with the react framework for frontend! Please don't ask me to style! 
