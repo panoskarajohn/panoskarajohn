@@ -7,4 +7,4 @@ You’ll mostly see code in C#, Rust, C++, and occasionally C. I’m currently l
 
 My primary professional language has been C#, and it’s where I’m most comfortable. I’m generally at ease with managed languages, and I also have experience on the frontend using jQuery, vanilla JavaScript, and React.
 
-That said, don’t expect polished styling — UI aesthetics are not my strong suit 🙂
+That said, don’t expect polished styling, UI aesthetics are not my strong suit 🙂
